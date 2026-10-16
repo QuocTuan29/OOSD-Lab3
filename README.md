@@ -71,41 +71,5 @@ ArenaTicTacToe/
 
 
 ## . Kết quả chạy
-==================================================
-  ARENA SYSTEM - CASE STUDY OBJECT-ORIENTED ANALYSIS
-     MÔ PHỎNG USE CASE: ANNOUNCE TOURNAMENT (TICTACTOE)
-==================================================
-
-==================================================
-[GIAO DIỆN ORGANIZER] Yêu cầu công bố giải đấu mới:
- - Tên giải đấu: TicTacToe Championship 2026
- - Bộ môn game: TicTacToe
- - Quy mô tối đa: 8 người chơi
- - Khởi tranh ngày: 2026-11-15
-==================================================
-
-[SYSTEM EVENT - ANNOUNCEMENT NOTIFICATION]
-Đã phát thông báo cho giải đấu: TicTacToe Championship 2026
-Bộ môn: TicTacToe | Giới hạn: 8 người chơi.
-Đang gửi email thông báo tới 8 thành viên:
-  -> [Email sent to nguyenminhtri.2002@gmail.com]: Chào Nguyễn Minh Trí, giải đấu TicTacToe 8 người chơi đã mở đăng ký!
-  -> [Email sent to hoangnam.tran99@gmail.com]: Chào Trần Hoàng Nam, giải đấu TicTacToe 8 người chơi đã mở đăng ký!
-  -> [Email sent to phuonganh.le03@gmail.com]: Chào Lê Phương Anh, giải đấu TicTacToe 8 người chơi đã mở đăng ký!
-  -> [Email sent to duchuy.pham.tech@gmail.com]: Chào Phạm Đức Huy, giải đấu TicTacToe 8 người chơi đã mở đăng ký!
-  -> [Email sent to voquocbao2001@gmail.com]: Chào Võ Quốc Bảo, giải đấu TicTacToe 8 người chơi đã mở đăng ký!
-  -> [Email sent to linh.dangthao98@gmail.com]: Chào Đặng Thảo Linh, giải đấu TicTacToe 8 người chơi đã mở đăng ký!
-  -> [Email sent to khoabui.dev@gmail.com]: Chào Bùi Anh Khoa, giải đấu TicTacToe 8 người chơi đã mở đăng ký!
-  -> [Email sent to giaphat.ngo.2003@gmail.com]: Chào Ngô Gia Phát, giải đấu TicTacToe 8 người chơi đã mở đăng ký!
---------------------------------------------------
-
-[GIAO DIỆN ORGANIZER] RÀO CHẮN XÁC NHẬN: Công bố giải đấu THÀNH CÔNG!
-[Chi tiết giải đấu]: Tournament{name='TicTacToe Championship 2026', gameStyle='TicTacToe', maxPlayers=8, status='ANNOUNCED', startDate=2026-11-15, registeredCount=0}
-
->>> TRẠNG THÁI HỆ THỐNG ARENA BÊN TRONG CƠ SỞ DỮ LIỆU:
-Tổng số giải đấu đã ghi nhận: 1
-Thông tin giải đấu: Tournament{name='TicTacToe Championship 2026', gameStyle='TicTacToe', maxPlayers=8, status='ANNOUNCED', startDate=2026-11-15, registeredCount=0}
-
-
-
-
+<img width="1431" height="827" alt="image" src="https://github.com/user-attachments/assets/270fbe2f-0130-4fe2-9f71-5a6bd2c58a13" />
 
